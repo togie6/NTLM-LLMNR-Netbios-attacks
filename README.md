@@ -18,7 +18,7 @@ Understanding and exploiting NTLM and insecure legacy protocol
   
   &gt;Weaknesses  
   
-  &gt;Attacks (Grabbing hashes)
+  &gt;Exploitation (Grabbing hashes)
   
   &gt;Mitigation & Protection
   
