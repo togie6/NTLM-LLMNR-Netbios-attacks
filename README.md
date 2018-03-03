@@ -20,8 +20,19 @@ Understanding and exploiting NTLM and insecure legacy protocol
   
   &gt;Attacks (Grabbing hashes)
   
-### Insecure Protocols
-  &gt;LLMNT
+  &gt;Mitigation & Protection
   
-  &gt;Netbios
+### Insecure Protocols (LLMNR/Netbios)
+
+  &gt;How it works
+  
+  &gt;Uses
+  
+  &gt;Weaknesses
+  
+  &gt;Exploitation
+  
+  &gt;Mitigation & Protection
+ 
+ 
   
